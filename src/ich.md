@@ -3,9 +3,9 @@
 Ich bin [@androlinuxs](https://github.com/androlinuxs), ein 17 Jähriger Hobby Programmierer der seit über 7 Jahren codet.
 Ich bevorzuge vor allem Folgende Sprachen:
 <ol>
-    <li>1. Python</li>
-    <li>2. Bash</li>
-    <li>3. C/C++</li>
+    <li>Python</li>
+    <li>Bash</li>
+    <li>C/C++</li>
 </ol>
 Die Meisten Sprachen bringe ich mir selber bei.
 
