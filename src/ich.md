@@ -12,7 +12,7 @@ Die Meisten Sprachen bringe ich mir selber bei.
 # Wie Lerne ich Sprachen
 
 Ich beginne meist damit, die offiziellen Dokumente Durchzulesen. Bash lernte ich durch Langes nutzen der Bash Shell in Linux.
-Python habe ich durch die [offizielle Website](https://python.org/) gelernt und für C/C++ habe ich mir die Bücher der Erfinder der Sprachen gekauft.
+Python habe ich durch die [offizielle Website](https://docs.python.org/3/) gelernt und für C/C++ habe ich mir die Bücher der Erfinder der Sprachen gekauft.
 
 # Welche Plattformen nutze ich
 
