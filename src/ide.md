@@ -2,14 +2,9 @@
 
 Führen sie den Setup ihrer Distribution aus welches wir hier zur verfügung stellen. Dies öffnet am ende automatisch die init.vim wo sie den Teil aus dem Abschnitt init.vim einfügen sollen
 
-# Debian
+# Debian (Ubuntu)
 ```bash
 curl -sSL https://androlinuxs.github.io/download/ide-debian.sh | bash
-```
-
-# Ubuntu
-```bash
-curl -sSL https://androlinuxs.github.io/download/ide-ubuntu.sh | bash
 ```
 
 # Archlinux
