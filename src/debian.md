@@ -46,8 +46,9 @@ apt full-upgrade
 apt install <packages>
 apt search <packages>
 apt clean
-apt auto-clean
+apt autoclean
 apt remove <package>
+apt download
 ```
 
 Die apt befehle sind alle Gebündelt in einem Programm aber es gibt auch spezialiesierte Tools, die von Fortgeschritteren verwendet werden sollte:
@@ -58,12 +59,42 @@ apt-get update
 apt-get upgrade
 apt-get install <package>
 apt-get dist-upgrade
-...
+apt-get clean
+apt-get autoclean
+apt-get remove
+apt-get autoremove
+apt-get purge
+apt-get build-dep
+apt-get check
+apt-get source
+apt-get help
+apt-get help
+apt-get dselect-upgrade
+apt-get markauto
+apt-get unmarkauto
+apt-get changelog
+apt-get download
 ```
 
 **Fortgeschritten (apt-cache)**
 ```bash
 apt-cache search <package>
+apt-cache add
+apt-cache gencaches
+apt-cache showpkg
+apt-cache stats
+apt-cache showsrc
+apt-cache dump
+apt-cache dumpavail
+apt-cache unmet
+apt-cache show
+apt-cache depends
+apt-cache rdepends
+apt-cache pkgnames
+apt-cache dotty
+apt-cache xvcg
+apt-cache policy
+apt-cache madison
 ```
 
-
+APT Basiert auf dpkg welches das Installationsprogramm der Packete ist
