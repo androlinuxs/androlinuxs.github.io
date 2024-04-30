@@ -14,6 +14,7 @@ Debian ist eine Linux Distribution, genauer gesagt, einer der ältesten und Stab
         <li>Stabil</li>
         <li>Leicht zu Lernen</li>
         <li>Vieles Vor Konfiguriert</li>
+        <li>Gut Für einsteiger</li>
     </ol>
 </details>
 <details>
@@ -22,4 +23,11 @@ Debian ist eine Linux Distribution, genauer gesagt, einer der ältesten und Stab
         <li>Eventuell nicht die Aktuellste Software</li>
         <li>Dauert Länger es sich individuell Anzupassen</li>
     </ol>
+</details>
+
+<details>
+    <summary>Links</summary>
+    <a href="https://debian.org"><button>Debian Website</button></a><br />
+    <a href="https://www.debian.org/download"><button>Download Debian</button></a><br />
+    <a href="https://www.debian.org/intro/why_debian"><button>Alles Über Debian</button></a><br />
 </details>
