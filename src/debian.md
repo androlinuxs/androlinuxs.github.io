@@ -31,3 +31,39 @@ Debian ist eine Linux Distribution, genauer gesagt, einer der ältesten und Stab
     <a href="https://www.debian.org/download"><button>Download Debian</button></a><br />
     <a href="https://www.debian.org/intro/why_debian"><button>Alles Über Debian</button></a><br />
 </details>
+
+# Packetmanager
+
+Debian hat wie jede andere Linux Distribution auch einen eigenen Packetmanager, hier ist das der APT Manager.
+Er ladet Packete aus Mirrors und/oder Repositorys Runter.
+Folgende Grundlegende Befehle sollte man kennen:
+
+**Einsteiger**
+```bash
+apt update
+apt upgrade
+apt full-upgrade
+apt install <packages>
+apt search <packages>
+apt clean
+apt auto-clean
+apt remove <package>
+```
+
+Die apt befehle sind alle Gebündelt in einem Programm aber es gibt auch spezialiesierte Tools, die von Fortgeschritteren verwendet werden sollte:
+
+**Fortgeschritten (apt-get)**
+```bash
+apt-get update
+apt-get upgrade
+apt-get install <package>
+apt-get dist-upgrade
+...
+```
+
+**Fortgeschritten (apt-cache)**
+```bash
+apt-cache search <package>
+```
+
+
